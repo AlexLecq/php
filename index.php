@@ -7,7 +7,7 @@
 <?php
     include 'db.php';
     $data = get_data();
-    echo "<p>Hello World $data !</p>";
+    echo "<p>Hello  $data !</p>";
 ?>
 </body>
 </html>
